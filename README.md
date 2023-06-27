@@ -1,5 +1,5 @@
 # Warehouse_Dashboard
-During the Data warehouse course, my groupmate Jakub Kopiczyński and I were doing warehouse and dashboards from scratch. 
+During the Data warehouse course, my colleague Jakub Kopiczyński and I were doing warehouse and dashboards from scratch. 
 First, we created a database with random data for Ski Center.
 Then we defined goals and KPIs for further analysis.
 By going through the whole ETL process, we created our first warehouse using SQL server management studio, Visual studio (for cube processing), and Tableau to show dashboards. 
